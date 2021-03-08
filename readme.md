@@ -6,7 +6,7 @@
 
 ```
 pnpm i
-cd foo/bar
+cd packages/foo/bar
 ```
 
 Add a package that is not in registry:
